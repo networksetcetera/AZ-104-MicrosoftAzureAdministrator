@@ -1,4 +1,4 @@
-#This is a guided tour of your lab environment
+
 
 ## Getting technical support
 - help with vouchers, passes = Kimberly/Martha @ Wintellect
