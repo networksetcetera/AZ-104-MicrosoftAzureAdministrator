@@ -1,9 +1,12 @@
 #This is a guided tour of your lab environment
 
-## getting around in Teams
+## Getting around in MS Teams
 
-##LODS
-- log in
+## LODS
+- log in to the desktop
+- copy and paste
+- Instructions/Resources/Help tabs
+- your Azure account credentials
 
 ## The Azure Portal
 - navigation
