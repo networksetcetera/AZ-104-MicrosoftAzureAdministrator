@@ -41,3 +41,15 @@
 - load the az module
 - show existing modules
 - Cloud Shell vs Powershell ISE
+
+## Upload and deploy resources using ARM Templates (Portal vs Cloud Shell)
+1. locate the template definition file and parameters file
+1. Open the Portal and select create
+1. search for template and select **Template (deploy using custom tempates)**
+1. Select _create_
+1. Select **Build your own template in the editor**
+1. Use **load file** to upload the template definition, then click **save**
+1. You should now see the option to purchase (do NOT click this option yet)
+1. To add more parameter values to the design you can select **edit parameters**
+1. Upload the _Template parameters_ file
+1. You should now have all the values you need to purchase (you may still need to supply a _Region Group_ name)
